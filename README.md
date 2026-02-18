@@ -1,4 +1,4 @@
-[![Header](https://tenor.com/ru/view/negan-negan-smith-twd-the-walking-dead-saviors-gif-27416085)](https://www.shpavda.com/)
+[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)]
 
 ### 🎯 CEO of Shpavda LLP<br>🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
 
