@@ -11,7 +11,9 @@ Be one of the first to join our growing community and transform your everyday li
 
 <p align="center">
   <a href="https://t.me/NnordkK">
-    <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram" style="width:150px;"/>
-    <img src="https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord&logoColor=22" style="width:140px;"/>
+    <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" style="width:150px;"/>
+  </a>
+  <a href="https://discordapp.com/users/nnordkk/">
+    <img src="https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord&logoColor=22" style="width:140px;">
   </a>
 </p> 
