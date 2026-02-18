@@ -1,4 +1,4 @@
-!(https://github.com/NnordkK/NnordkK/blob/main/assets/cotes.gif)
+![Header](https://github.com/NnordkK/NnordkK/blob/main/assets/cotes.gif)
 
 ### 🎯 CEO of Shpavda LLP<br>🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
 
