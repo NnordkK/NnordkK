@@ -16,4 +16,7 @@ Be one of the first to join our growing community and transform your everyday li
   </a>
 </p> 
 
-[![](https://github.com/NnordkK/NnordkK/blob/main/assets/photo_2026-02-18_23-00-41.jpg)](https://discordapp.com/users/349191763933659139)
+<audio controls>
+  <source src="https://yourdomain.com/path/to/audio.mp3" type="audio/mpeg">
+  Ваш браузер не поддерживает аудио элемент.
+</audio>
