@@ -7,4 +7,8 @@
 ## Social Media:
 Be one of the first to join our growing community and transform your everyday life.
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/NnordkK)
+<p align="center">
+  <a href="https://t.me/NnordkK">
+    <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram" style="width:150px;"/>
+  </a>
+</p>
