@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NnordkK/NnordkK/blob/main/assets/photo_2026-02-18_23-00-41.jpg" width="820" height="500" />
+  <img src="https://github.com/NnordkK/NnordkK/blob/main/assets/photo_2026-02-18_23-00-41.jpg" width="820" height="700" />
 </p>
 
 Обо мне: 
