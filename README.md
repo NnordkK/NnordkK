@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NnordkK/NnordkK/blob/main/assets/cotes.gif" style="width:400%;" />
+  <img src="https://github.com/NnordkK/NnordkK/blob/main/assets/cotes.gif" width="820" height="600" />
 </p>
 
 ### 🎯 CEO of Shpavda LLP<br>🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
