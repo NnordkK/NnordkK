@@ -16,7 +16,3 @@ Be one of the first to join our growing community and transform your everyday li
   </a>
 </p> 
 
-<audio controls>
-  <source src="https://yourdomain.com/path/to/audio.mp3" type="audio/mpeg">
-  Ваш браузер не поддерживает аудио элемент.
-</audio>
