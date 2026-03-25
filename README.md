@@ -14,5 +14,8 @@ Be one of the first to join our growing community and transform your everyday li
   <a href="https://discordapp.com/users/1017379068095762453 ">
     <img src="https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord&logoColor=7289DA" alt="discord" style="width:140px;">
   </a>
+  <a href="https://steamcommunity.com/id/NKnordk/">
+    <img src="https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam&logoColor=7289DA" alt="steam" style="width:140px;">
+  </a>
 </p> 
 
