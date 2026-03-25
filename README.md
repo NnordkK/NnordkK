@@ -1,17 +1,17 @@
 <div align="center">
 
 # 👋 Hi, my name is Denis
+I am student of
 </div>
+
 
 ## 🌐 languages: <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++ logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c# logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /> <img width="12" />
 </div>
 
 ###
 
-## 💻 technolohies: <img src="https://skillicons.dev/icons?i=windows" height="40" alt="javascript logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=ps" height="40" alt="javascript logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=ae" height="40" alt="javascript logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=blender" height="40" alt="javascript logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /> <img width="12" />
+## 💻 technologies: <img src="https://skillicons.dev/icons?i=ps" height="40" alt="javascript logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=ae" height="40" alt="javascript logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=blender" height="40" alt="javascript logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  /> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /> <img width="12" />
 </div>
-
-Обо мне: 
 
 ## Social Media
 Be one of the first to join our growing community and transform your everyday life.
@@ -24,6 +24,12 @@ Be one of the first to join our growing community and transform your everyday li
     <img src="https://img.shields.io/badge/-discord-0e1621?style=for-the-badge&logo=discord&logoColor=7289DA" alt="discord" style="width:139px;">
   </a>
 </p> 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Igorsergeevichisit" 
+  width="120" height="30" />
+</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NnordkK/NnordkK/main/assets/photo_2026-02-18_23-00-41.jpg" width="400" height="300" />
