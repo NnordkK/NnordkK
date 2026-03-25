@@ -12,10 +12,10 @@ Be one of the first to join our growing community and transform your everyday li
     <img src="https://img.shields.io/badge/-Telegram-0e1621?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="telegram" style="width:150px;"/>
   </a>
   <a href="https://discordapp.com/users/1017379068095762453 " style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-discord-0e1621?style=for-the-badge&logo=discord&logoColor=7289DA" alt="discord" style="width:140px;">
+    <img src="https://img.shields.io/badge/-discord-0e1621?style=for-the-badge&logo=discord&logoColor=7289DA" alt="discord" style="width:137px;">
   </a>
   <a href="https://steamcommunity.com/id/NKnordk/">
-    <img src="https://img.shields.io/badge/-Steam-0e1621?style=for-the-badge&logo=steam&logoColor=108fe6" alt="steam" style="width:118px;">
+    <img src="https://img.shields.io/badge/-Steam-0e1621?style=for-the-badge&logo=steam&logoColor=108fe6" alt="steam" style="width:116px;">
   </a>
 </p> 
 
